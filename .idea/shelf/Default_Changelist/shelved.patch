@@ -1,0 +1,14 @@
+Index: task2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from random import random\n\nmy_list = [int(random() * 300) for el in range(20)]\nprint(f\"Исходный список {my_list}\")\nlist_new = [my_list[i] for i in range(1, len(my_list)) if my_list[i - 1] < my_list[i]]\nprint(f\"Отобранный список: {list_new}\")\nprint(f'Числа от 20 до 240 кратные 20 или 21 - {[el for el in range(20, 241) if el % 20 == 0 or el % 21 == 0]}')\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- task2.py	(revision 400bdb0ea7d0611ca771b922f07dc037b2c75f3c)
++++ task2.py	(date 1600241129121)
+@@ -4,4 +4,3 @@
+ print(f"Исходный список {my_list}")
+ list_new = [my_list[i] for i in range(1, len(my_list)) if my_list[i - 1] < my_list[i]]
+ print(f"Отобранный список: {list_new}")
+-print(f'Числа от 20 до 240 кратные 20 или 21 - {[el for el in range(20, 241) if el % 20 == 0 or el % 21 == 0]}')

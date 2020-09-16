@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edd14702-0203-496a-bc0a-f0c0d885eb32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ha951R3oAYVOVFj9O5D7i0JJqg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+  </component>
+  <component name="RunManager" selected="Python.task4">
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="repolesson4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="repolesson4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task4" />
+        <item itemvalue="Python.task3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edd14702-0203-496a-bc0a-f0c0d885eb32" name="Default Changelist" comment="" />
+      <created>1600238149277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600238149277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="124" width="1720" height="855" key="DiffContextDialog" timestamp="1600247672820">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="100" y="124" width="1720" height="855" key="DiffContextDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1600247672820" />
+    <state x="765" y="456" key="Github.CreateGistDialog" timestamp="1600247409569">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="765" y="456" key="Github.CreateGistDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1600247409569" />
+    <state width="1900" height="284" key="GridCell.Tab.0.bottom" timestamp="1600247152016">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1900" height="284" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152016" />
+    <state width="1900" height="284" key="GridCell.Tab.0.center" timestamp="1600247152016">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1900" height="284" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152016" />
+    <state width="1900" height="284" key="GridCell.Tab.0.left" timestamp="1600247152015">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1900" height="284" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152015" />
+    <state width="1900" height="284" key="GridCell.Tab.0.right" timestamp="1600247152016">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1900" height="284" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152016" />
+    <state x="456" y="186" key="SettingsEditor" timestamp="1600247150172">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="456" y="186" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1600247150172" />
+    <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2" timestamp="1600247428260">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1600247428260" />
+    <state x="755" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600247245707">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="755" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1920.1055@0.25.1920.1055" timestamp="1600247245707" />
+  </component>
+</project>
