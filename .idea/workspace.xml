@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd14702-0203-496a-bc0a-f0c0d885eb32" name="Default Changelist" comment="Задача 3 выполнена">
-      <change afterPath="$PROJECT_DIR$/task5.py" afterDir="false" />
+    <list default="true" id="edd14702-0203-496a-bc0a-f0c0d885eb32" name="Default Changelist" comment="изменено задание 2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
   </component>
-  <component name="RunManager" selected="Python.task3">
+  <component name="RunManager" selected="Python.task2">
+    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="repolesson4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repolesson4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,8 +119,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="repolesson4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task2" />
+        <item itemvalue="Python.task5" />
         <item itemvalue="Python.task4" />
         <item itemvalue="Python.task3" />
       </list>
@@ -124,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600249594417</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задача 5">
+      <created>1600268016257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600268016257</updated>
+    </task>
+    <task id="LOCAL-00003" summary="изменено задание 2">
+      <created>1600268486594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600268486594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +199,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задача 3 выполнена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 3 выполнена" />
+    <MESSAGE value="Задача 5" />
+    <MESSAGE value="изменено задание 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменено задание 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="124" width="1720" height="855" key="DiffContextDialog" timestamp="1600247672820">
@@ -152,30 +212,30 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="765" y="456" key="Github.CreateGistDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1600247409569" />
-    <state width="1900" height="284" key="GridCell.Tab.0.bottom" timestamp="1600247152016">
+    <state width="1900" height="284" key="GridCell.Tab.0.bottom" timestamp="1600268500527">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="1900" height="284" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152016" />
-    <state width="1900" height="284" key="GridCell.Tab.0.center" timestamp="1600247152016">
+    <state width="1900" height="284" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1600268500527" />
+    <state width="1900" height="284" key="GridCell.Tab.0.center" timestamp="1600268500527">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="1900" height="284" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152016" />
-    <state width="1900" height="284" key="GridCell.Tab.0.left" timestamp="1600247152015">
+    <state width="1900" height="284" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1600268500527" />
+    <state width="1900" height="284" key="GridCell.Tab.0.left" timestamp="1600268500526">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="1900" height="284" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152015" />
-    <state width="1900" height="284" key="GridCell.Tab.0.right" timestamp="1600247152016">
+    <state width="1900" height="284" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1600268500526" />
+    <state width="1900" height="284" key="GridCell.Tab.0.right" timestamp="1600268500527">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="1900" height="284" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1600247152016" />
+    <state width="1900" height="284" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1600268500527" />
     <state x="456" y="186" key="SettingsEditor" timestamp="1600247150172">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="456" y="186" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1600247150172" />
-    <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2" timestamp="1600249604599">
+    <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2" timestamp="1600268509478">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1600249604599" />
+    <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1600268509478" />
     <state x="755" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600249396406">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
