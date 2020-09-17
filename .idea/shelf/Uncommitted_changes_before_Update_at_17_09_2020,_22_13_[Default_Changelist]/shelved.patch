@@ -1,0 +1,173 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"edd14702-0203-496a-bc0a-f0c0d885eb32\" name=\"Default Changelist\" comment=\"Выполнено задание 7 изменено\">\n      <change beforePath=\"$PROJECT_DIR$/task7.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/task7.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode>\n        <option name=\"argument\" value=\"--tags\" />\n        <option name=\"title\" value=\"All\" />\n      </GitPushTagMode>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1ha951R3oAYVOVFj9O5D7i0JJqg\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"vcs.Subversion.SSH\" />\n  </component>\n  <component name=\"RunManager\" selected=\"Python.task7\">\n    <configuration name=\"task2\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"repolesson4\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/task2.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"task4\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"repolesson4\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/task4.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"task5\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"repolesson4\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/task5.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"task6\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"repolesson4\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/task6.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"task7\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"repolesson4\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/task7.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.task7\" />\n        <item itemvalue=\"Python.task6\" />\n        <item itemvalue=\"Python.task5\" />\n        <item itemvalue=\"Python.task2\" />\n        <item itemvalue=\"Python.task4\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"SvnConfiguration\">\n    <configuration>$USER_HOME$/.subversion</configuration>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"edd14702-0203-496a-bc0a-f0c0d885eb32\" name=\"Default Changelist\" comment=\"\" />\n      <created>1600238149277</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1600238149277</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Задача 3 выполнена\">\n      <created>1600249594417</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600249594417</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Задача 5\">\n      <created>1600268016257</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600268016257</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"изменено задание 2\">\n      <created>1600268486594</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600268486594</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"внесены изменения\">\n      <created>1600268630636</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600268630636</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"изменено задание 3\">\n      <created>1600268682606</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600268682606</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"изменено задание 3\">\n      <created>1600268716793</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600268716793</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Выполнено задание 5\">\n      <created>1600344660029</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600344660029</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Выполнено задание 6\">\n      <created>1600346279505</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600346279505</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Выполнено задание 7\">\n      <created>1600347088051</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600347088051</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Выполнено задание 7 изменено\">\n      <created>1600348396420</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600348396420</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"Выполнено задание 7 изменено\">\n      <created>1600349448966</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600349448966</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"Выполнено задание 7 изменено\">\n      <created>1600349479531</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600349479531</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"13\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Задача 3 выполнена\" />\n    <MESSAGE value=\"Задача 5\" />\n    <MESSAGE value=\"изменено задание 2\" />\n    <MESSAGE value=\"внесены изменения\" />\n    <MESSAGE value=\"изменено задание 3\" />\n    <MESSAGE value=\"Выполнено задание 5\" />\n    <MESSAGE value=\"Выполнено задание 6\" />\n    <MESSAGE value=\"Выполнено задание 7\" />\n    <MESSAGE value=\"Выполнено задание 7 изменено\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Выполнено задание 7 изменено\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"100\" y=\"124\" width=\"1720\" height=\"855\" key=\"DiffContextDialog\" timestamp=\"1600247672820\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state x=\"100\" y=\"124\" width=\"1720\" height=\"855\" key=\"DiffContextDialog/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600247672820\" />\n    <state x=\"765\" y=\"456\" key=\"Github.CreateGistDialog\" timestamp=\"1600247409569\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state x=\"765\" y=\"456\" key=\"Github.CreateGistDialog/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600247409569\" />\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1600349202648\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600349202648\" />\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.center\" timestamp=\"1600349202647\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600349202647\" />\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.left\" timestamp=\"1600349202647\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600349202647\" />\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.right\" timestamp=\"1600349202648\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state width=\"1900\" height=\"284\" key=\"GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600349202648\" />\n    <state x=\"456\" y=\"186\" key=\"SettingsEditor\" timestamp=\"1600247150172\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state x=\"456\" y=\"186\" key=\"SettingsEditor/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600247150172\" />\n    <state x=\"555\" y=\"287\" width=\"800\" height=\"519\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1600349482870\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state x=\"555\" y=\"287\" width=\"800\" height=\"519\" key=\"Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600349482870\" />\n    <state x=\"755\" y=\"469\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1600249396406\">\n      <screen x=\"0\" y=\"25\" width=\"1920\" height=\"1055\" />\n    </state>\n    <state x=\"755\" y=\"469\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1920.1055@0.25.1920.1055\" timestamp=\"1600249396406\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 3ff64c54e43b1f102991ce9a466e48189eb0afa8)
++++ .idea/workspace.xml	(date 1600370028406)
+@@ -20,7 +20,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="edd14702-0203-496a-bc0a-f0c0d885eb32" name="Default Changelist" comment="Выполнено задание 7 изменено">
+-      <change beforePath="$PROJECT_DIR$/task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/repolesson4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/repolesson4.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -40,8 +42,14 @@
+         <option name="argument" value="--tags" />
+         <option name="title" value="All" />
+       </GitPushTagMode>
++    </option>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="3ff64c54e43b1f102991ce9a466e48189eb0afa8" />
++      </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectId" id="1ha951R3oAYVOVFj9O5D7i0JJqg" />
+   <component name="ProjectViewState">
+@@ -51,8 +59,8 @@
+   <component name="PropertiesComponent">
+     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../repolesson3" />
++    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+   </component>
+   <component name="RunManager" selected="Python.task7">
+     <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+@@ -266,7 +274,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1600349479531</updated>
+     </task>
+-    <option name="localTasksCounter" value="13" />
++    <task id="LOCAL-00013" summary="Задачи выполнены">
++      <created>1600369577121</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1600369577121</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -291,44 +306,57 @@
+     <MESSAGE value="Выполнено задание 6" />
+     <MESSAGE value="Выполнено задание 7" />
+     <MESSAGE value="Выполнено задание 7 изменено" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание 7 изменено" />
++    <MESSAGE value="Задачи выполнены" />
++    <option name="LAST_COMMIT_MESSAGE" value="Задачи выполнены" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="100" y="124" width="1720" height="855" key="DiffContextDialog" timestamp="1600247672820">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state x="100" y="129" width="1720" height="851" key="DiffContextDialog" timestamp="1600369836925">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state x="100" y="124" width="1720" height="855" key="DiffContextDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1600247672820" />
++    <state x="100" y="129" width="1720" height="851" key="DiffContextDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1600369836925" />
++    <state x="743" y="312" width="424" height="478" key="FileChooserDialogImpl" timestamp="1600369982397">
++      <screen x="0" y="31" width="1920" height="1049" />
++    </state>
++    <state x="743" y="312" width="424" height="478" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1600369982397" />
+     <state x="765" y="456" key="Github.CreateGistDialog" timestamp="1600247409569">
+       <screen x="0" y="25" width="1920" height="1055" />
+     </state>
+     <state x="765" y="456" key="Github.CreateGistDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1600247409569" />
+-    <state width="1900" height="284" key="GridCell.Tab.0.bottom" timestamp="1600349202648">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1600369836844">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state width="1900" height="284" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1600349202648" />
+-    <state width="1900" height="284" key="GridCell.Tab.0.center" timestamp="1600349202647">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1600369836844" />
++    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1600369836843">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state width="1900" height="284" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1600349202647" />
+-    <state width="1900" height="284" key="GridCell.Tab.0.left" timestamp="1600349202647">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state width="1899" height="280" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1600369836843" />
++    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1600369836840">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state width="1900" height="284" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1600349202647" />
+-    <state width="1900" height="284" key="GridCell.Tab.0.right" timestamp="1600349202648">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state width="1899" height="280" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1600369836840" />
++    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1600369836843">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state width="1900" height="284" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1600349202648" />
+-    <state x="456" y="186" key="SettingsEditor" timestamp="1600247150172">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state width="1899" height="280" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1600369836843" />
++    <state x="456" y="191" key="SettingsEditor" timestamp="1600369973982">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state x="456" y="186" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1600247150172" />
+-    <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2" timestamp="1600349482870">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state x="456" y="191" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1600369973982" />
++    <state x="555" y="292" width="800" height="519" key="Vcs.Push.Dialog.v2" timestamp="1600369597759">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state x="555" y="287" width="800" height="519" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1600349482870" />
+-    <state x="755" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600249396406">
+-      <screen x="0" y="25" width="1920" height="1055" />
++    <state x="555" y="292" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1600369597759" />
++    <state x="755" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600369272141">
++      <screen x="0" y="31" width="1920" height="1049" />
+     </state>
+     <state x="755" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1920.1055@0.25.1920.1055" timestamp="1600249396406" />
++    <state x="755" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.31.1920.1049@0.31.1920.1049" timestamp="1600369272141" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/repolesson4.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module version=\"4\">\n  <component name=\"NewModuleRootManager\">\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.8 (untitled1)\" jdkType=\"Python SDK\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n  </component>\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/repolesson4.iml	(revision 3ff64c54e43b1f102991ce9a466e48189eb0afa8)
++++ .idea/repolesson4.iml	(date 1600369974416)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <module version="4">
+   <component name="NewModuleRootManager">
+-    <orderEntry type="jdk" jdkName="Python 3.8 (untitled1)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.8 (untitled1)\" project-jdk-type=\"Python SDK\" />\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision 3ff64c54e43b1f102991ce9a466e48189eb0afa8)
++++ .idea/misc.xml	(date 1600369974444)
+@@ -1,4 +1,4 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (untitled1)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
