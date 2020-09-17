@@ -7,9 +7,10 @@ def fibo_gen():
         yield factorial(el)
 
 
+n = int(input("Введите количесво чисел для вывода: "))
 numStop = 0
 for i in fibo_gen():
-    if numStop < 15:
+    if numStop < n:
         print(i)
         numStop += 1
     else:
