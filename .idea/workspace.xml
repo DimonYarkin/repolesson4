@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edd14702-0203-496a-bc0a-f0c0d885eb32" name="Default Changelist" comment="Выполнено задание 7 изменено">
-      <change beforePath="$PROJECT_DIR$/task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/repolesson4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/repolesson4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
