@@ -10,11 +10,12 @@ def fibo_gen():
 while True:
 
     n = 0
+    StopVal = False
     try:
         n = int(input("Введите количесво чисел для вывода: "))
+        StopVal = True
     except ValueError:
-        print("Ошибка")
-        break
+        print("Ошибка введено не число. повторите ввод")
 
     numStop = 0
     for i in fibo_gen():
@@ -23,4 +24,6 @@ while True:
             numStop += 1
         else:
             break
-    break
+
+    if StopVal:
+        break
